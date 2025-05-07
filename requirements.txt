@@ -1,0 +1,50 @@
+# PyTorch and related libraries
+torch==1.12.1
+torchvision==0.13.1
+torchaudio==0.12.1
+xformers
+
+# Common Python dependencies
+hydra-core
+omegaconf
+freetype-py
+shapely
+svgutils
+cairosvg
+opencv-python
+scikit-image
+matplotlib
+visdom
+wandb
+BeautifulSoup4
+triton
+numba
+numpy
+scipy
+scikit-fmm
+einops
+timm
+fairscale==0.4.13
+accelerate
+transformers
+safetensors
+datasets
+easydict
+scikit-learn
+pytorch-lightning==2.1.0
+webdataset
+
+# Additional utility libraries
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+
+# Diffusers
+diffusers==0.20.2
+
+# DiffVG specific
+svgwrite
+svgpathtools
+cssutils
+torch-tools
